@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "project_name": "Migracja danych do Data Warehouse v2",
+        "description": "Przeniesienie danych z systemów źródłowych do nowego Data Warehouse, implementacja ETL, optymalizacja ładowania danych i raportowania.",
+        "start_date": "2026-02-15",
+        "end_date": "2026-08-15",
+        "status": "Oczekiwanie na oferty",
+        "notes": "",
+        "type": "project_definition"
+    }
+]

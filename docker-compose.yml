@@ -1,0 +1,15 @@
+services:
+  neo4j:
+    image: neo4j:latest
+    container_name: talentmatch_neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4j_data:/data
+    environment:
+      - NEO4J_AUTH=neo4j/123123123
+    restart: unless-stopped
+
+volumes:
+  neo4j_data:

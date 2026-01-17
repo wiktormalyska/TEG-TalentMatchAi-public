@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "employee_name": "Joanna Jan",
+        "project_name": "Migracja danych do Data Warehouse v2",
+        "start_date": "2026-02-15",
+        "end_date": "2026-08-15",
+        "fte": 1.0,
+        "type": "assignment"
+    }
+]

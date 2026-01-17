@@ -1,0 +1,77 @@
+.NET
+AI
+AWS
+Algorithm
+Android
+Angular
+Apache
+Azure
+Bash
+Big Data
+Bootstrap
+C
+C#
+C++
+CI/CD
+CSS
+Cassandra
+Cloud Computing
+Data Analysis
+Data Science
+Database Administration
+Deep Learning
+DevOps
+Django
+Docker
+Elasticsearch
+Flask
+Git
+Go
+Google Cloud Platform
+GraphQL
+HTML
+Hibernate
+JSON
+Java
+JavaScript
+Jenkins
+Kafka
+Kotlin
+Kubernetes
+Linux
+Machine Learning
+MongoDB
+MySQL
+Neo4j
+NoSQL
+Node.js
+Oracle
+PHP
+PostgreSQL
+Power BI
+Python
+R
+REST API
+React
+React Native
+Redis
+Redux
+Ruby
+Ruby on Rails
+Rust
+SQL
+Scala
+Selenium
+Spark
+Spring Boot
+Swift
+Tableau
+TensorFlow
+Terraform
+Testing
+TypeScript
+Unity
+Vue.js
+Web Development
+WordPress
+XML
