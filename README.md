@@ -46,3 +46,8 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi instrukcjami.
 ## 📄 Licencja
 
 Ten projekt jest udostępniony na licencji MIT.
+
+
+## ⚠️ Uwagi
+
+Projekt został w pełni stworzony na prywatnym repozytorium. To repozytorium jest jego klonem z usuniętymi danymi wrażliwymi.
